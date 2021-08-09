@@ -1,0 +1,50 @@
+.box {
+    height: 250px;
+    width: 250px;
+    background-color: red;
+    border: 3px solid black;
+    display: flex;
+    align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.container {
+    text-align: center;
+}
+.guess-submit {
+    width: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.guess {
+    width: 70px;
+    margin-left: -10px;
+}
+.btn-submit {
+    border: 2px solid black;
+    box-shadow: 2px 3px black;
+}
+.box2 {
+    height: 250px;
+    width: 250px;
+    background-color: green;
+    border: 3px solid black;
+    display: flex;
+    align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.container2 {
+    text-align: center;
+}
+.output {
+    color: whitesmoke;
+}
+.btn-playagain {
+    border: 2px solid black;
+    box-shadow: 2px 3px black;
+}
